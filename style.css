@@ -1,0 +1,25 @@
+.heading 
+{
+font-size:23px;
+width: 100%;
+margin: 0px;
+}
+
+.note 
+{
+    font-size: 15px;
+    color: blanchedalmond       
+}
+
+body
+{
+    background-size: cover;
+}
+
+
+
+canvas
+{
+    border:5px  solid whitesmoke;
+    border-radius:50px;
+}
